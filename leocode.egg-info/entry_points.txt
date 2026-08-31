@@ -1,0 +1,2 @@
+[console_scripts]
+leocode = leocode.__main__:main

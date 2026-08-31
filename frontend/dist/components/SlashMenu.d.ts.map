@@ -1,0 +1,1 @@
+{"version":3,"file":"SlashMenu.d.ts","sourceRoot":"","sources":["../../src/components/SlashMenu.tsx"],"names":[],"mappings":"AAAA,OAAO,KAA4B,MAAM,OAAO,CAAC;AAKjD,UAAU,cAAc;IACtB,MAAM,EAAE,MAAM,CAAC;IACf,QAAQ,EAAE,CAAC,OAAO,EAAE,MAAM,KAAK,IAAI,CAAC;IACpC,OAAO,EAAE,MAAM,IAAI,CAAC;CACrB;AAED;;;;;GAKG;AACH,eAAO,MAAM,SAAS,EAAE,KAAK,CAAC,EAAE,CAAC,cAAc,CA+E9C,CAAC"}
